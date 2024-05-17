@@ -1,6 +1,7 @@
 
 footer{
     background-color: purple;
+    font-size: 1.1em;
 
 }
 
@@ -26,4 +27,12 @@ h1{
     font-variant-caps: small-caps;
     text-align:center;
     font-size: 6em;
+}
+h2{
+    text-transform: uppercase;
+    font-variant-caps: small-caps;
+    border-bottom: 3px dotted purple;
+}
+.navbar{
+    background-color: purple;
 }
