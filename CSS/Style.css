@@ -33,6 +33,24 @@ h2{
     font-variant-caps: small-caps;
     border-bottom: 3px dotted purple;
 }
+h2, h3{
+    width: 800px;
+    font-size: 1.2em;
+}
 .navbar{
+    background-color: purple;
+}
+.gomb{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: purple;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#vasarlas:hover{
     background-color: purple;
 }
