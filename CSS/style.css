@@ -1,5 +1,6 @@
 footer, .navbar, button{
     background-color: purple;
+    font-size: 1.1rem;
 }
 
 p{
@@ -31,13 +32,11 @@ h1{
     font-size: 6rem;
 }
 h2{
+    width: 800px;
+    font-size: 1.2em;
     text-transform: uppercase;
     letter-spacing: 2.5px;
     border-bottom: 5px dotted purple;
-}
-h2{
-    width: 800px;
-    font-size: 1.2em;
 }
 h3{
     width: 800px;
