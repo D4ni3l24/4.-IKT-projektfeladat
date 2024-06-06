@@ -2,11 +2,9 @@ footer, .navbar, button{
     background-color: purple;
     font-size: 1.1rem;
 }
-
 p{
     text-align: justify;
     text-indent: 15px;
-    width: 800px;
 }
 body{
     color: white;
@@ -32,14 +30,12 @@ h1{
     font-size: 6rem;
 }
 h2{
-    width: 800px;
     font-size: 1.2em;
     text-transform: uppercase;
     letter-spacing: 2.5px;
     border-bottom: 5px dotted purple;
 }
 h3{
-    width: 800px;
     font-size: 1.1rem;
     font-style: italic;
 }
