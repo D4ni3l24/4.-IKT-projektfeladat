@@ -5,7 +5,7 @@ Edelényi Tas, Puskás Barnabás és Sajtos Dániel
 
 Edelényi Tas:
  - Játék megvalósítása a valóságban
- tortenet.html elkészítése
+ - tortenet.html elkészítése
 
 Puskás Barnabás:
  - Játék megvalósítása valóságban
